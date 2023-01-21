@@ -1,1 +1,4 @@
-# wowProfiles
+Addons needed:
+
+- Plater
+- NameplateAuras
