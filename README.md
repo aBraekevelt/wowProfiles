@@ -1,4 +1,0 @@
-Addons needed:
-
-- Plater
-- NameplateAuras
